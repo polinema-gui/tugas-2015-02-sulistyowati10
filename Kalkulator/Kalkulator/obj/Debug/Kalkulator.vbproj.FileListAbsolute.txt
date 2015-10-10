@@ -1,0 +1,10 @@
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.Cache
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.xml
+C:\Users\sulistyowati\Documents\Visual Studio 2012\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
